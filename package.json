@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-reverse-code-points",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Reverse the Unicode code points of a string.",
   "license": "Apache-2.0",
   "author": {
