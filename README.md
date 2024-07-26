@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverseCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-code-points@deno/mod.js';
+import reverseCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-code-points@v0.2.2-deno/mod.js';
 ```
 
 #### reverseCodePoints( str )
@@ -71,7 +71,7 @@ out = reverseCodePoints( 'foo bar' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import reverseCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-code-points@deno/mod.js';
+import reverseCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse-code-points@v0.2.2-deno/mod.js';
 
 var str = reverseCodePoints( 'presidential election' );
 // returns 'noitcele laitnediserp'
